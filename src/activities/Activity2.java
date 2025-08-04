@@ -3,12 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package activity2;
+package activities;
 
 /**
  *
  * @author SCC_PC5
  */
-public class activity3 {
+public class Activity2 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
     
 }
